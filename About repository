@@ -1,0 +1,4 @@
+It is a pure C++ project.
+This is banking system which handle creating a bank account of the user they can whithdraw ,deposit, checking balance enquiry and close their account if they want.
+It also store the previous data related to the account in a separate file(Bank.data for future use and any changes made reflect in that file also. 
+Account number is unique for every user.
